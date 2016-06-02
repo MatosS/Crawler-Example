@@ -1,0 +1,20 @@
+{
+  "name": "ipvabasebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mssql": "^3.2.1",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "ipva"
+  ],
+  "author": "Guilherme Matos Ladeira",
+  "license": "ISC"
+}
